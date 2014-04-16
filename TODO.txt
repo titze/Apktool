@@ -14,3 +14,5 @@ obfuscated app manifest broken:
     <uses-permission ="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission ="android.permission.INTERNET" />
 </manifest>
+
+-> https://code.google.com/p/android-apktool/issues/detail?id=512

@@ -1,0 +1,16 @@
+obfuscated app manifest broken:
+
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1" ="1.0" package="com.homework.messenger"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <application ="@style/AppTheme" ="@string/app_name" ="@drawable/ic_launcher" ="true">
+        <activity ="@string/app_name" =".MessengerMain">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission ="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission ="android.permission.INTERNET" />
+</manifest>
